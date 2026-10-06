@@ -1,0 +1,15 @@
+Expenses report for Vladik Panasiuk (IT31)
+Period: 2026-09-30 .. 2026-10-06
+Records: 9
+
+category         count      total   share  chart
+-------------------------------------------------------
+food                 6     695.00   81.3%  ################
+transport            2     100.00   11.7%  ##
+coffee               1      60.00    7.0%  #
+-------------------------------------------------------
+total                9     855.00  100.0%
+
+Top day: 2026-10-02 (190.00)
+Most expensive: food 180.00 (groceries)
+Average per day: 142.50
