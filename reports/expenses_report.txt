@@ -1,0 +1,17 @@
+Expenses report for Vladik Panasiuk (IT31)
+Period: 2026-09-30 .. 2026-10-06
+Records: 12
+
+category      count      total   share  chart
+----------------------------------------------------
+food              5     620.00   51.5%  ##########
+books             1     200.00   16.6%  ###
+transport         3     150.00   12.4%  ##
+entertainment      1     120.00   10.0%  #
+coffee            2     115.00    9.5%  #
+----------------------------------------------------
+total            12    1205.00  100.0%
+
+Top day: 2026-10-06 (260.00)
+Most expensive: books 200.00 (notebook)
+Average per day: 172.14

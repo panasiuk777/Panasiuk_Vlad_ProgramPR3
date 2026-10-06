@@ -1,0 +1,5 @@
+name: Vladik
+surname: Panasiuk
+group: IT31
+year: 2009
+language: German
