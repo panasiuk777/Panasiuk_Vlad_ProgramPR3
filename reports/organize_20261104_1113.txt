@@ -1,0 +1,21 @@
+Vlad Panasiuk, IT31
+Date: 04.11.2026 11:13
+Moved files: 17
+
+ПР2 - Встановлення Windows.pdf -> 2026-09/
+gcpwstandaloneenterprise64.exe -> 2026-09/
+Windows11InstallationAssistant.exe -> 2026-09/
+ПР7 E3 діаграми.pdf -> 2026-09/
+ПР3 - Аналіз завантаження Windows.pdf -> 2026-10/
+zavantazhennya-os-windows.docx -> 2026-10/
+ПР2 - Встановлення Windows (1).pdf -> 2026-10/
+Windows11InstallationAssistant (1).exe -> 2026-10/
+ПР2 - Встановлення Windows (2).pdf -> 2026-10/
+VBoxGuestAdditions_7.1.4.iso -> 2026-10/
+Windows11InstallationAssistant (2).exe -> 2026-10/
+Звіт.docx -> 2026-10/
+ПР9 E5 фінансові обчислення ІТ.pdf -> 2026-10/
+lab_work_9.db -> 2026-10/
+23 ЛЗ 14 Зведені таблиці.pdf -> 2026-10/
+ПР8 E4 Математичні задачі.pdf -> 2026-10/
+panasiuk_info.txt -> 2026-11/
