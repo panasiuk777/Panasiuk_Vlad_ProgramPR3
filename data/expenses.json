@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-11-01",
+    "category": "food",
+    "amount": 250.0,
+    "comment": "Продукти"
+  },
+  {
+    "date": "2026-11-02",
+    "category": "transport",
+    "amount": 80.0,
+    "comment": "Проїзд"
+  },
+  {
+    "date": "2026-11-03",
+    "category": "fun",
+    "amount": 150.0,
+    "comment": "Розваги"
+  },
+  {
+    "date": "2026-11-04",
+    "category": "food",
+    "amount": 320.0,
+    "comment": "Покупки"
+  },
+  {
+    "date": "2026-11-05",
+    "category": "transport",
+    "amount": 50.0,
+    "comment": "Автобус"
+  },
+  {
+    "date": "2026-11-06",
+    "category": "food",
+    "amount": 450.0,
+    "comment": "Супермаркет"
+  },
+  {
+    "date": "2026-11-07",
+    "category": "fun",
+    "amount": 200.0,
+    "comment": "Кіно"
+  },
+  {
+    "date": "2026-11-08",
+    "category": "transport",
+    "amount": 40.0,
+    "comment": "Проїзд"
+  }
+]
